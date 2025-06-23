@@ -1,0 +1,35 @@
+/* Custom styles for the Navbar component */
+
+.custom-navbar {
+  background-color: #1a1a1a; /* Dark modern look */
+}
+
+.brand-logo {
+  height: 40px;
+  width: auto;
+}
+
+.brand-title {
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.nav-item-link {
+  color: #ffffff !important;
+  transition: color 0.3s ease;
+}
+
+.nav-item-link:hover {
+  color: #ffc107 !important; /* Highlight on hover */
+}
+
+.highlight-link {
+  font-weight: bold;
+  color: #ffc107 !important; /* Yellow color for special link */
+}
+
+.small-text-footer {
+  background-color: #f8f9fa;
+  font-size: 0.8rem;
+  color: #555;
+}
