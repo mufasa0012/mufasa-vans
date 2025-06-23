@@ -1,0 +1,28 @@
+{
+  "name": "mufasa-vans",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1",
+    "emailjs-com": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "react-typed": "^2.0.12",
+    "typewriter-effect": "^2.22.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.0",
+    "gh-pages": "^6.0.0",
+    "vite": "^5.2.0"
+  },
+  "homepage": "https://mufasa0012.github.io/mufasa-vans"
+}
